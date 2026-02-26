@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_desights",
+  "info": {
+    "singularName": "job-desight",
+    "pluralName": "job-desights",
+    "displayName": "Job_Desight"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}

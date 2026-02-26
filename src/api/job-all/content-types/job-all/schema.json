@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_alls",
+  "info": {
+    "singularName": "job-all",
+    "pluralName": "job-alls",
+    "displayName": "Job_All"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "pichtur": {
+      "type": "string"
+    }
+  }
+}
