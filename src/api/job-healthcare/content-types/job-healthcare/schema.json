@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_healthcares",
+  "info": {
+    "singularName": "job-healthcare",
+    "pluralName": "job-healthcares",
+    "displayName": "Job_Healthcare"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_finances",
+  "info": {
+    "singularName": "job-finance",
+    "pluralName": "job-finances",
+    "displayName": "Job_Finance"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}

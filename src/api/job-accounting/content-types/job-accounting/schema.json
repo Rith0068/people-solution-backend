@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_accountings",
+  "info": {
+    "singularName": "job-accounting",
+    "pluralName": "job-accountings",
+    "displayName": "Job_Accounting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}

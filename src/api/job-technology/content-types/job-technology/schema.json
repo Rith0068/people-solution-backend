@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_technologies",
+  "info": {
+    "singularName": "job-technology",
+    "pluralName": "job-technologies",
+    "displayName": "Job_Technology"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}

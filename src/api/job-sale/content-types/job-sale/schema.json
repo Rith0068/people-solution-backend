@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_sales",
+  "info": {
+    "singularName": "job-sale",
+    "pluralName": "job-sales",
+    "displayName": "Job_Sale"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    }
+  }
+}
